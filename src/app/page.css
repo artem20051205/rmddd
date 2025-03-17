@@ -131,11 +131,10 @@ social-media a:hover {
 }
 
 .contact-image {
-  width: auto;
-  height: 300;
-  margin-left: 120px;
+  width: 150px;
+  height: auto;
+  margin-left: 20px;
 }
-
 
 .sticky-header {
   position: -webkit-sticky;
