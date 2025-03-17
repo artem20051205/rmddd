@@ -30,7 +30,7 @@ body {
   align-items: center;
   text-align: center;
   background-color: linear-gradient(to bottom right, #aaa, #000000);
-  color: #9fa4b4;
+  color: #000000;
 }
 
 .header {
@@ -64,7 +64,7 @@ body {
   width: 90%;
   margin: 20px 0;
   padding: 20px;
-  background: linear-gradient(to bottom right, #cacaca, #848484);
+  background: linear-gradient(to bottom right, #cacaca, #b7b7b7);
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
