@@ -9,13 +9,13 @@ const PortfolioPage = () => {
       <header className="header sticky-header" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
           <h1 className="header-title" style={{ marginRight: '80px' }}>Pythius</h1>
-          <Image src="/logo.png" alt="Logo" className="header-logo" width={340} height={100} />
+          <Image src="./logo.png" alt="Logo" className="header-logo" width={340} height={100} />
         </div>
         <h2 className="header-subtitle"><b>Pythius Organisatieontwikkeling vanuit Mens en motivatie</b></h2>
       </header>
       <section id="home" className="section home">
         <div className="home-content">
-          <Image src="/raymond.jpeg" alt="Profile" className="profile-photo small-profile-photo" width={150} height={150} />
+          <Image src="./raymond.jpeg" alt="Profile" className="profile-photo small-profile-photo" width={150} height={150} />
           <div className="home-text">
           {/* <div className="home-text1">-->
               <h2 style={{ marginBottom: '20px' }}><b>Pythius Organisatieontwikkeling vanuit Mens en motivatie</b></h2>
