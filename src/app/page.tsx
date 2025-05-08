@@ -9,7 +9,7 @@ const PortfolioPage = () => {
       <header className="header sticky-header" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
           <h1 className="header-title" style={{ marginRight: '80px' }}>Pythius</h1>
-          <Image src="/logo.png" alt="Logo" className="header-logo" width={340} height={100} />
+          <Image src="./logo.png" alt="Logo" className="header-logo" width={340} height={100} />
         </div>
         <h2 className="header-subtitle"><b>Pythius Organisatieontwikkeling vanuit Mens en motivatie</b></h2>
       </header>
