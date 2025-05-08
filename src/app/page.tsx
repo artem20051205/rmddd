@@ -16,7 +16,7 @@ const PortfolioPage = () => {
 
       <section id="home" className="section home">
         <div className="home-content">
-          <Image src="/raymond.jpeg" alt="Profile" className="profile-photo small-profile-photo" width={150} height={150} />
+          <Image src="./raymond.jpeg" alt="Profile" className="profile-photo small-profile-photo" width={150} height={150} />
           <div className="home-text">
             <h2 style={{ marginBottom: '20px' }}><b>Pythius Organisatieontwikkeling vanuit Mens en motivatie</b></h2>
             <p><strong>Pythius</strong> staat voor begrijpen.</p>
@@ -28,7 +28,7 @@ const PortfolioPage = () => {
         </div>
       </section>
 
-      <section id="pythius" className="section pythius" style={{ backgroundImage: 'url(/vijfer3.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+      <section id="pythius" className="section pythius" style={{ backgroundImage: 'url(./vijfer3.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
         <div className="home-text" style={{ color: '#151528' }}>
           <div className="home-text1">
             <h2 style={{ marginBottom: '20px' }}><b>Pythius</b></h2>
@@ -80,7 +80,7 @@ const PortfolioPage = () => {
             <p>Kamer van Koophandel: 32117074</p>
             <p>IBAN: NL29 ABNA 0544 5999 42</p>
           </div>
-          <Image src="/r1.jpg" alt="Contact Image" className="contact-image" width={150} height={150} />
+          <Image src="./r1.jpg" alt="Contact Image" className="contact-image" width={150} height={150} />
         </div>
       </section>
 
